@@ -20,6 +20,5 @@ class odd
 		x=n*2;
 		z=(2 * x - 1);
 		System.out.println(n+" Odd number after "+n+" odd numbers = "+z );
-                   
     }
 }
