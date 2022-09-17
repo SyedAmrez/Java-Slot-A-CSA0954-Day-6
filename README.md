@@ -1,7 +1,7 @@
 # Java-Slot-A-CSA0954-Day-6
 
 1.Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
-Symbol Value  I 1 , V 5 , X 10 , L 50 , C 100 , D 500 , M 1000 Roman to integers
+Symbol Value  I 1 , V 5 , X 10 , L 50 , C 100 , D 500 , M 1000 Roman to integers.
 
 2.Given two strings ransomNote and magazine, return true if ransomNote can be 
 constructed by using the letters from magazine and false otherwise. Each letter in 
@@ -36,5 +36,4 @@ generating a suitable code in Java.
 11.Write a program to print inverted pyramid pattern
 
 12.Write a java code for a given an integer array nums, find the contiguous subarray (containing 
-at least one number) which has the largest sum and return its sum. A subarray is 
-a contiguous part of an array
+at least one number) which has the largest sum and return its sum. A subarray is a contiguous part of an array
